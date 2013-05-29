@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">K16WallpaperService</string>
+  <string name="wallpaper_name">K16Wallpaper</string>
+  <string name="wallpaper_settings">Wallpaper Settings</string>
+  <string name="description">K16 wallpaper. Presented by k16.nagashima </string>
+</resources>
